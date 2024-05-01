@@ -37,3 +37,19 @@ pre, code {
 #output {
     height: 50%;
 }
+
+#importExport {
+    display: flex;
+    /*justify-content: center;*/
+    gap: 1rem;
+}
+
+#outputExecute {
+    display: flex;
+    justify-content: space-between;
+}
+
+#outputLabel {
+    font-weight: bolder;
+    font-size: large;
+}
