@@ -9,15 +9,25 @@
 5. Nach erfolgreichem Download aller Pakete können Sie nun Ihren lokalen Blockly-Server mit dem Befehl `npm run start` starten. Die Entwicklungsoberfläche lässt sich mithilfe des Browsers unter `localhost:8080` abrufen.
 6. Klicken Sie auf den `Programm Ausführen`-Knopf in der Weboberfläche, um das vorgeladene Beispielprogramm auszuführen und das Ergebnis im Ausgabefeld auszugeben. Sie können nun mit der Bearbeitung der Aufgaben beginnen.
 
-### Aufgabe 1
+### Aufgabe 1.
 
-### Aufgabe 2
+Die Primfaktorzerlegung ist ein mathematisches Verfahren, bei dem eine natürliche Zahl als Produkt ihrer Primfaktoren dargestellt wird. Multipliziert man die Primzahlen miteinander, so ist das Ergebnis die ursprüngliche Zahl.
 
-### Aufgabe 3
+Beispiel: 24 = 2 * 2 * 2 * 3; 77 = 7 * 11; 13 = 13
 
-### Aufgabe 4
+a) Entwickeln Sie ein Blockly-Programm, das die Primfaktoren einer Zahl ausgibt. Wie lauten die Primfaktoren von 1.274?
 
-### Aufgabe 5
+b) Passen Sie Ihre Lösung aus a) an, sodass ein Funktionsaufruf mit Zahl als Eingabeparameter eine Liste aller Primfaktoren zurückgibt. Wie viele Primfaktoren besitzt die Zahl 588.000 und wie lauten diese?
+
+c) Wie lauten die Primfaktoren der Zahl 10.753?
+
+### Aufgabe 2.
+
+### Aufgabe 3.
+
+### Aufgabe 4.
+
+### Aufgabe 5.
 
 ### Bei Problemen
 
