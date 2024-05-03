@@ -26,13 +26,41 @@ Die Primfaktorzerlegung ist ein mathematisches Verfahren, bei dem eine natürlic
 
 *c)* Wie lauten die Primfaktoren der Zahl **10.753**?
 
-### Aufgabe 2.
+### Aufgabe 2. String-Manipulation
 
-### Aufgabe 3.
+Es gibt verschiedene Arten, um den Inhalt vor anderen geheim zu halten. Ein einfaches Verschlüsselungsverfahren ist dabei *ROT13*, welches den Wert jedes Buchstaben des Originaltexts um 13 Stellen im Alphabet verschiebt. 
 
-### Aufgabe 4.
+**Beispiele**
+```
+abc  => nop
+xyz  => klm
+test => grfg
+grfg => test
+```
 
-### Aufgabe 5.
+*a)* Entwickeln Sie ein Blockly-Programm, das einen Eingabetext mithilfe des *ROT13*-Verfahrens verschlüsselt. Welcher Begriff verbirgt sich hinter der Eingabe `fcnturggv`?
+
+*b)* Neben *ROT13* bestehen weitere *ROT*-Verfahren, die Buchstaben des Originaltexts um eine Anzahl X im Alphabet verschieben (*ROTX*). Welcher Begriff verbirgt sich hinter der Eingabe `kduuvapibcd` und welches *ROTX*-Verfahren wurde verwendet?  
+
+*c)* Erstellen Sie einen eigenen Blockly-Funktionsbaustein, der das *ROT13*-Verfahren an einem Eingabetext durchführt. 
+
+### Aufgabe 3. Datum-Konvertierung
+
+*a)* (Einbinden des Kalender-Plugins)
+
+*b)* (Programm zum Prüfen, ob ein Jahr ein Schaltjahr ist)
+
+*c)* (Programm zur Ausgabe des Wochentags eines Datums)
+
+### Aufgabe 4. Bitmap-Field
+
+*a)*
+
+*b)*
+
+*c)*
+
+### Aufgabe 5. 
 
 ### Bei Problemen
 
