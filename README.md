@@ -15,16 +15,16 @@ Die Primfaktorzerlegung ist ein mathematisches Verfahren, bei dem eine natürlic
 
 **Beispiele**
 ```
-24 = 2 × 2 × 2 × 3
-77 = 7 × 11
-13 = 13
+   120 = 2 × 2 × 2 × 3 × 5
+ 1.001 = 7 × 11 × 13
+    23 = 23
 ```
 
-*a)* Entwickeln Sie ein Blockly-Programm, das die Primfaktoren einer Zahl ausgibt. Wie lauten die Primfaktoren von **1.274**?
+*a)* Entwickeln Sie ein Blockly-Programm, das die Primfaktoren einer Zahl ausgibt. Wie lauten die Primfaktoren von **65.751**?
 
-*b)* Passen Sie Ihre Lösung aus *a)* an, sodass ein Funktionsaufruf mit Zahl als Eingabeparameter eine Liste aller Primfaktoren zurückgibt. Wie viele Primfaktoren besitzt die Zahl **588.000** und wie lauten diese?
+*b)* Passen Sie Ihre Lösung aus *a)* an, sodass ein Funktionsaufruf mit Zahl als Eingabeparameter eine Liste aller Primfaktoren zurückgibt. Wie viele Primfaktoren besitzt die Zahl **73.728.000**?
 
-*c)* Wie lauten die Primfaktoren der Zahl **10.753**?
+*c)* Wie viele Primfaktoren besitzt die Zahl **3.932.273**? Wie lauten diese?
 
 ### Aufgabe 2. String-Manipulation
 
