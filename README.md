@@ -17,18 +17,18 @@ Die Primfaktorzerlegung ist ein mathematisches Verfahren, bei dem eine natürlic
 ```
    120 = 2 × 2 × 2 × 3 × 5
  1.001 = 7 × 11 × 13
-    23 = 23
+    23 = 1 × 23
 ```
 
 *a)* Entwickeln Sie ein Blockly-Programm, das die Primfaktoren einer Zahl ausgibt. Wie lauten die Primfaktoren von **65.751**?
 
 *b)* Passen Sie Ihre Lösung aus *a)* an, sodass ein Funktionsaufruf mit Zahl als Eingabeparameter eine Liste aller Primfaktoren zurückgibt. Wie viele Primfaktoren besitzt die Zahl **73.728.000**?
 
-*c)* Wie viele Primfaktoren besitzt die Zahl **3.932.273**? Wie lauten diese?
+*c)* Wie viele Primfaktoren besitzt die Zahl **7.229**? Wie lauten diese?
 
 ### Aufgabe 2. String-Manipulation
 
-Es gibt verschiedene Arten, um den Inhalt vor anderen geheim zu halten. Ein einfaches Verschlüsselungsverfahren ist dabei *ROT13*, welches den Wert jedes Buchstaben des Originaltexts um 13 Stellen im Alphabet verschiebt. 
+Es gibt verschiedene Methoden, um den Inhalt einer Nachricht vor anderen geheim zu halten. Ein einfaches Verfahren zur Textverschlüsselung und -entschlüsselung ist *ROT13*, das den Wert eines Buchstabens um 13 Stellen im Alphabet verschiebt. 
 
 **Beispiele**
 ```
@@ -40,7 +40,7 @@ grfg => test
 
 *a)* Entwickeln Sie ein Blockly-Programm, das einen Eingabetext mithilfe des *ROT13*-Verfahrens verschlüsselt. Welcher Begriff verbirgt sich hinter der Eingabe `fcnturggv`?
 
-*b)* Neben *ROT13* bestehen weitere *ROT*-Verfahren, die Buchstaben des Originaltexts um eine Anzahl X im Alphabet verschieben (*ROTX*). Welcher Begriff verbirgt sich hinter der Eingabe `kduuvapibcd` und welches *ROTX*-Verfahren wurde verwendet?  
+*b)* Neben *ROT13* gibt es weitere *ROT*-Verfahren, die die Buchstaben eines Originaltexts um eine Anzahl X im Alphabet verschieben (*ROTX*). Welcher Begriff verbirgt sich hinter der Eingabe `kduuvapibcd` und welches *ROTX*-Verfahren wurde verwendet?  
 
 *c)* Erstellen Sie einen eigenen Blockly-Funktionsbaustein, der das *ROT13*-Verfahren an einem Eingabetext durchführt. 
 
